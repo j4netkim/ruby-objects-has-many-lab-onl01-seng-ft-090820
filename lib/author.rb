@@ -4,4 +4,5 @@ class Author
 
   @@all = []
 
+binding.pry 
   def initialize(name)
